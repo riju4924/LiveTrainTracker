@@ -46,12 +46,6 @@ Follow these steps to get your own API key:
 API_KEY=YOUR_RAILRADAR_API_KEY
 ```
 
-Example:
-
-```env
-API_KEY=sk_live_xxxxxxxxxxxxxxxxxxxxxxxxx
-```
-
 > **Important**
 >
 > - Never commit your `.env` file to GitHub.
