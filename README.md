@@ -57,7 +57,7 @@ API_KEY=YOUR_RAILRADAR_API_KEY
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LiveTrainTracker.git
+git clone https://github.com/riju4924/LiveTrainTracker.git
 ```
 
 ### Navigate to the project
